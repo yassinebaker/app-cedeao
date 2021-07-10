@@ -1,0 +1,169 @@
+{
+     "220": {
+          "nom": "gambie",
+          "capital": "banjul",
+          "population": "2347706 ",
+          "superficie": "196712km",
+          "independance": "4/04/1960",
+          "president": "adamo barro",
+          "pib": "1556252",
+          "langue": "anglais",
+          "monnaie": "dalasi"
+     },
+     "221": {
+          "nom": "Senegal",
+          "capital": "160000 ",
+          "population": "Dakar",
+          "superficie": "196712km",
+          "independance": "4/04/1960",
+          "president": "ousmane sonko",
+          "pib": "1444684",
+          "langue": "francais",
+          "monnaie": "fcfa"
+     },
+     "223": {
+          "nom": "mali",
+          "capital": "160000 M/hbts",
+          "population": "bamako",
+          "superficie": "1241240",
+          "independance": "24/11/1958",
+          "president": "ibrahim keita",
+          "pib": "879",
+          "monnaie": "fcfa",
+          "langue": "francais"
+     },
+     "224": {
+          "nom": "guinne",
+          "population": "160000 M/hbts",
+          "capital": "Dakar",
+          "superficie": "196712km",
+          "independance": "02/10/1958",
+          "president": "ousmane sonko",
+          "pib": "1556252",
+          "monnaie": "fcfa",
+          "langue": "francais"
+     },
+     "225": {
+          "nom": "cote d_ivoire",
+          "population": "549935 M/hbts",
+          "capital": "yamoussoukoro",
+          "superficie": "196712km",
+          "independance": "4/04/1960",
+          "president": "alassane ouattara",
+          "pib": "1556252",
+          "monnaie": "fcfa",
+          "langue": "francais"
+     },
+     "226": {
+          "nom": "burkina faso",
+          "population": "160000 M/hbts",
+          "capital": "ouagadougou",
+          "superficie": "274400",
+          "independance": "05/07/1960",
+          "president": "christian kabore",
+          "pib": "1622",
+          "monaie": "frcs",
+          "langue": "francais"
+     },
+     "227": {
+          "nom": "niger",
+          "population": "837437 ",
+          "capital": "lome",
+          "superficie": "1267",
+          "independance": "18/12/1958",
+          "president": "mouhamed bazoum",
+          "pib": "5553",
+          "monaie": "frcs",
+          "langue": "francais"
+     },
+     "228": {
+          "nom": "togo",
+          "population": "23310 ",
+          "capital": "niamey",
+          "superficie": "1267",
+          "independance": "27/06/1960",
+          "president": "faure gnassingbe",
+          "pib": "67929",
+          "monaie": "frcs",
+          "langue": "francais"
+     },
+     "229": {
+          "nom": "benin",
+          "population": "1180000000 ",
+          "capital": "porto novo",
+          "superficie": "114753",
+          "independance": "01/06/1960",
+          "president": "patrcice talon",
+          "pib": "1556252",
+          "monnaie": "fcfa",
+          "langue": "francais"
+     },
+     "230": {
+          "nom": "nigeria",
+          "population": "160000 ",
+          "capital": "abuja",
+          "superficie": "196712km",
+          "independance": "01/10/1960",
+          "president": "muhamad buhari",
+          "pib": "1556252",
+          "monnaie": "escudo cap verdien",
+          "langue": "francais"
+     },
+     "231": {
+          "nom": "liberia",
+          "population": "4937374 ",
+          "capital": "monrovia",
+          "superficie": "11369",
+          "independance": "07/01/1822",
+          "president": "george wea",
+          "pib": "6252",
+          "monnaie": "dollard liberien",
+          "langue": "anglais"
+     },
+     "232": {
+          "nom": "sierra leone",
+          "population": "160000 M/hbts",
+          "capital": "freetom",
+          "superficie": "7144000",
+          "independance": "27/06/1961",
+          "president": "ernest bakuma",
+          "pib": "1556252",
+          "monnaie": "leone",
+          "langue": "anglais"
+     },
+     "233": {
+          "nom": "ghana",
+          "population": "3042 ",
+          "capital": "accra",
+          "superficie": "1.30",
+          "independance": "06/03/1957",
+          "president": "nana akufo addo",
+          "pib": "1979$",
+          "langue": "anglais",
+          "monnaie": "cedi"
+     },
+     "238": {
+          "nom": "cap vert",
+          "population": "549935 ",
+          "capital": "praia",
+          "superficie": "1.30",
+          "independance": "05/07/1975",
+          "president": "jorge carlos fonseca",
+          "pib": "1979$",
+          "langue": "portuguais",
+          "monnaie": "escudo cap verdien"
+     },
+     "245": {
+          "nom": "guinee bissau",
+          "population": "1924 ",
+          "capital": "bissau",
+          "superficie": "36125",
+          "independance": "24/10/1973",
+          "president": "urmano sissoco embalo",
+          "pib": "1339",
+          "langue": "portuguais",
+          "monnaie": "fcfa"
+     
+     
+     }
+}
